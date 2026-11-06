@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Local configuration
+local.properties
+
+# Android build files
+/captures/
+/.externalNativeBuild/
+/.cxx/
+
+# Signing keys
+*.jks
+*.keystore
+
+# Environment files
+.env
+.env.*
+
+# Firebase Admin private credentials
+service-account*.json
+firebase-adminsdk*.json
+
+# Private keys
+*.pem
+*.p12
+*.key
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
