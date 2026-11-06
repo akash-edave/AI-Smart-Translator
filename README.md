@@ -66,7 +66,8 @@ The application currently supports 15 languages:
 
 | Home Screen | Translation Screen |
 
-<img width="1912" height="1075" alt="image" src="https://github.com/user-attachments/assets/e6f3a65a-595a-463f-8ccc-d610a18141c6" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f9f7b8a8-b00f-4b8b-99ce-d74dc9bcf7e2" />
+
 
 <img width="1902" height="1077" alt="image" src="https://github.com/user-attachments/assets/841ffabd-7895-402e-8db7-33fb2ee1847a" />
 
